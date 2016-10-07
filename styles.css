@@ -1,0 +1,15 @@
+main {
+  margin: 20px 0px 0px 30px;
+}
+
+#section {
+  margin-bottom: 50px;
+}
+
+#output {
+  height: 50px;
+  width: 150px;
+  border: solid 2px blue;
+  padding: 4px;
+
+}
