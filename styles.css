@@ -13,6 +13,7 @@ main {
 #output {
   height: 50px;
   width: 150px;
-  border: solid 2px blue;
+  border: solid 2px #F5FAFA;
   padding: 4px;
+  text-align: center;
 }
